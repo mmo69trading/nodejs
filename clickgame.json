@@ -1,0 +1,7 @@
+{
+  "xpaths": [
+    "//div[text()='Join now!']",
+    "//div[text()='Next']",
+    "//div[text()='Claim gift']"
+  ]
+}
