@@ -2,6 +2,36 @@
   "xpaths": [
     "//div[text()='Join now!']",
     "//div[text()='Next']",
-    "//div[text()='Claim gift']"
+    "//div[text()='Claim gift']",
+"//span[contains(text(), 'Play')]",
+"//span[contains(text(), 'Okay')]",
+"//span[contains(text(), 'Next')]",
+"//span[contains(text(), 'Wow,')]",
+"//span[contains(text(), 'Create')]",
+"//span[contains(text(), 'Continue')]",
+"//span[contains(text(), 'Start')]",
+"//span[contains(text(), 'My profile score')]",
+"//span[contains(text(), 'farming')]",
+"//span[contains(text(), 'Farming')]",
+"//span[contains(text(), 'Skip')]",
+"//span[contains(text(), 'Let')]",
+"//span[contains(text(), 'Take Bonus')]",
+"//span[contains(text(), 'START')]",
+"//span[contains(text(), 'Awesome!')]",
+"//span[contains(text(), 'CLAIM')]",
+"//span[contains(text(), 'Get started')]",
+"//span[contains(text(), 'Whats new')]",
+"//span[contains(text(), 'How many tokens?')]",
+"//span[contains(text(), 'Thanks!')]",
+"//span[contains(text(), 'What else?')]",
+"//span[contains(text(), 'Go!')]",
+"//span[contains(text(), 'Skip tutorial')]",
+"//span[contains(text(), 'Receive')]",
+"//span[contains(text(), 'Let’s Farm!')]",
+"//span[contains(text(), 'Claim')]",
+"//span[contains(text(), 'Yes!')]",
+"//span[contains(text(), 'Start')]"
+
   ]
 }
+
