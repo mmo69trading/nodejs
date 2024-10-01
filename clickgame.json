@@ -32,6 +32,7 @@
     "//*[text()=\"Claim\"]",
     "//*[text()=\"Start\"]",
     "//*[text()=\"Yes!\"]",
-    "//*[text()=\"Receive\"]"
+    "//*[text()=\"Receive\"]",
+    "//span[contains(text(), \"Next\")]"
   ]
 }
