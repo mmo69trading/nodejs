@@ -27,7 +27,6 @@
     "//*[text()=\"Start\"]",
     "//*[text()=\"Yes!\"]",
     "//*[text()=\"Receive\"]",
-    "//*[text()=\"Wow, let's go!\"]",
-    "//span[contains(text(), \"Next\")]"
+    "//*[text()=\"Wow, let's go!\"]"
   ]
 }
