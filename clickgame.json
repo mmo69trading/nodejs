@@ -14,7 +14,6 @@
     "//*[text()=\"Let's get started!\"]",
     "//*[text()=\"Take Bonus\"]",
     "//*[text()=\"Open\"]",
-    "//*[text()=\"Play\"]",
     "//*[text()=\"Skip tutorial\"]",
     "//*[text()=\"START\"]",
     "//*[text()=\"Awesome!\"]",
