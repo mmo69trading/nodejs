@@ -4,6 +4,8 @@
     "//*[text()=\"Next\"]",
     "//*[text()=\"Claim gift\"]",
     "//*[text()=\"Okay, promise\"]",
+    "//*[text()=\"Next Step\"]",
+    "//*[text()=\"Wow, let’s go!\"]",
     "//*[text()=\"Create account\"]",
     "//*[text()=\"Continue\"]",
     "//*[text()=\"My profile score\"]",
@@ -17,6 +19,10 @@
     "//*[text()=\"Awesome!\"]",
     "//*[text()=\"CLAIM\"]",
     "//*[text()=\"Get started\"]",
+    "//*[text()=\"Whats new?\"]",
+    "//*[text()=\"How many tokens?\"]",
+    "//*[text()=\"Thanks!\"]",
+    "//*[text()=\"What else?\"]",
     "//*[text()=\"Go!\"]",
     "//*[text()=\"Play interlude season\"]",
     "//*[text()=\"Receive a gift\"]",
@@ -24,8 +30,8 @@
     "//*[text()=\"Claim\"]",
     "//*[text()=\"Start\"]",
     "//*[text()=\"Yes!\"]",
-    "//*[text()=\"Wow, let’s go!\"]",
+    "//*[text()=\"Receive\"]",
     "//*[text()=\"Wow, let's go!\"]",
-    "//*[text()=\"Receive\"]"
+    "//span[contains(text(), \"Next\")]"
   ]
 }
