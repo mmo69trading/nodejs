@@ -4,7 +4,6 @@
     "//*[text()=\"Next\"]",
     "//*[text()=\"Claim gift\"]",
     "//*[text()=\"Okay, promise\"]",
-    "//*[text()=\"Next Step\"]",
     "//*[text()=\"Wow, let’s go!\"]",
     "//*[text()=\"Create account\"]",
     "//*[text()=\"Continue\"]",
