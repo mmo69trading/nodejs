@@ -21,6 +21,10 @@
     "//*[text()=\"Play interlude season\"]",
     "//*[text()=\"Receive a gift\"]",
     "//*[text()=\"Let’s Farm!\"]",
+    "//*[text()=\"Start\"]",
+    "//*[text()=\"Yes!\"]",
+    "//*[text()=\"Wow, let’s go!\"]",
+    "//*[text()=\"Wow, let's go!\"]",
     "//*[text()=\"Receive\"]"
   ]
 }
