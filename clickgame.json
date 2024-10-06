@@ -18,7 +18,6 @@
     "//*[text()=\"CLAIM\"]",
     "//*[text()=\"Get started\"]",
     "//*[text()=\"Go!\"]",
-    "//*[text()=\"Play interlude season\"]",
     "//*[text()=\"Receive a gift\"]",
     "//*[text()=\"Let’s Farm!\"]",
     "//*[text()=\"Claim\"]",
