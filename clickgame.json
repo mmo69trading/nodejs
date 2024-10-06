@@ -15,7 +15,6 @@
     "//*[text()=\"Take Bonus\"]",
     "//*[text()=\"Open\"]",
     "//*[text()=\"Skip tutorial\"]",
-    "//*[text()=\"START\"]",
     "//*[text()=\"Awesome!\"]",
     "//*[text()=\"CLAIM\"]",
     "//*[text()=\"Get started\"]",
