@@ -4,8 +4,6 @@
     "//*[text()=\"Next\"]",
     "//*[text()=\"Claim gift\"]",
     "//*[text()=\"Okay, promise\"]",
-    "//*[text()=\"Next Step\"]",
-    "//*[text()=\"Wow, let’s go!\"]",
     "//*[text()=\"Create account\"]",
     "//*[text()=\"Continue\"]",
     "//*[text()=\"My profile score\"]",
@@ -20,14 +18,14 @@
     "//*[text()=\"CLAIM\"]",
     "//*[text()=\"Get started\"]",
     "//*[text()=\"Go!\"]",
-    "//*[text()=\"Next\"]",
     "//*[text()=\"Play interlude season\"]",
     "//*[text()=\"Receive a gift\"]",
     "//*[text()=\"Let’s Farm!\"]",
     "//*[text()=\"Claim\"]",
     "//*[text()=\"Start\"]",
     "//*[text()=\"Yes!\"]",
-    "//*[text()=\"Receive\"]",
-    "//*[text()=\"Wow, let's go!\"]"
+    "//*[text()=\"Wow, let’s go!\"]",
+    "//*[text()=\"Wow, let's go!\"]",
+    "//*[text()=\"Receive\"]"
   ]
 }
