@@ -30,6 +30,7 @@
     "//*[text()=\"Yes!\"]",
     "//*[text()=\"Receive\"]",
     "//*[text()=\"Wow, let's go!\"]",
-    "//span[contains(text(), \"Next\")]"
+    "//span[contains(text(), \"Next\")]",
+    "//div[@role='button' and contains(@class, 'flex flex-col items-center p-6 font-bold text-center rounded bg-slate-100')]"
   ]
 }
