@@ -31,6 +31,7 @@
     "//*[text()=\"Receive\"]",
     "//*[text()=\"Wow, let's go!\"]",
     "//span[contains(text(), \"Next\")]",
+    "//button[@class='btn-primary btn-color-primary web-app-button' and text()='My profile score']",
     "//div[@role='button' and contains(@class, 'flex flex-col items-center p-6 font-bold text-center rounded bg-slate-100')]"
   ]
 }
