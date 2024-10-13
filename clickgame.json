@@ -32,6 +32,9 @@
     "//*[text()=\"Wow, let's go!\"]",
     "//span[contains(text(), \"Next\")]",
     "//button[@class=\"btn-primary btn-color-primary web-app-button\"]",
+    "//button[contains(@class, 'h-[60px]') and text()='START']",
+    "//button[contains(@class, 'h-[60px]') and text()='Awesome!']",
+    "//button[contains(@class, 'h-[60px]') and text()='CLAIM']",
     "//div[@role='button' and contains(@class, 'flex flex-col items-center p-6 font-bold text-center rounded bg-slate-100')]"
   ]
 }
