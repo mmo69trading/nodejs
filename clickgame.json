@@ -29,6 +29,8 @@
     "//*[text()=\"Claim\"]",
     "//*[text()=\"Yes!\"]",
     "//*[text()=\"Receive\"]",
+    "//*[text()=\"Let’s start\"]",
+    "//*[text()=\"Gotcha!\"]",
     "//*[text()=\"Wow, let's go!\"]",
     "//*[text()=\"Let's go\"]",
     "//*[text()=\"Continute\"]",
