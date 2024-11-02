@@ -36,6 +36,7 @@
     "//*[text()=\"Let's go\"]",
     "//button[span[text()='Enter']]",
     "//button[span[text()='Collect']]",
+    "//button[span[text()='Join Star Season']]",
     "//*[text()=\"Continute\"]",
     "//button[@type='button' and contains(@class, 'ant-btn') and contains(@class, 'ant-btn-primary') and contains(span, 'Ok')]",
     "//span[contains(text(), \"Next\")]",
