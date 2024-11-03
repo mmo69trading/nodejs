@@ -39,7 +39,7 @@
     "//button[span[text()='Join Star Season']]",
     "//*[text()=\"Continute\"]",
     "//button[@type='button' and contains(@class, 'ant-btn') and contains(@class, 'ant-btn-primary') and contains(span, 'Ok')]",
-    "//span[@class='font-bold uppercase' and text()='Yes ']",
+    "//span[@class='font-bold uppercase' and text()='Yes']",
     "//span[contains(text(), \"Next\")]",
     "//button[@class=\"btn-primary btn-color-primary web-app-button\"]",
     "//button[contains(@class, 'h-[60px]') and text()='START']",
