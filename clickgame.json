@@ -38,6 +38,7 @@
     "//button[span[text()='Collect']]",
     "//button[span[text()='Join Star Season']]",
     "//*[text()=\"Continute\"]",
+    "//span[@class='lh-2' and text()='Stake to earn $Capy']",
     "//button[@type='button' and contains(@class, 'ant-btn') and contains(@class, 'ant-btn-primary') and contains(span, 'Ok')]",
     "//span[contains(text(), \"Next\")]",
     "//span[@class='font-bold uppercase' and text()='Yes']",
