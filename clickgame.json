@@ -43,6 +43,7 @@
     "//span[contains(text(), \"Next\")]",
     "//span[@class='font-bold uppercase' and text()='Yes']",
    	"//*[@id=\"app\"]/div[1]/div/div/div/div[3]/div/div/div[3]/button/span",
+    "//*[@id=\"app\"]/div[2]/div/div[4]/button",
     "//div[@class='w-full h-full flex items-center justify-center overflow-hidden']//div[contains(@class, 'relative overflow-hidden')]",
     "//button[@class=\"btn-primary btn-color-primary web-app-button\"]",
     "//button[contains(@class, 'h-[60px]') and text()='START']",
