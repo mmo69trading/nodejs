@@ -32,6 +32,7 @@
     "//*[text()=\"Let’s start\"]",
     "//*[text()=\"Gotcha!\"]",
     "//div[@class='icon']/svg[@width='86' and @height='86' and @viewBox='0 0 86 86']",
+    "/html/body/div/div/main/div/div[2]/button/div/div/div[1]",
     "//*[text()=\"Wow, let's go!\"]",
     "//*[text()=\"Let's GOATS!\"]",
     "//*[text()=\"Let's go\"]",
