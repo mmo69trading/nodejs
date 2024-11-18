@@ -35,6 +35,7 @@
     "/html/body/div/div[2]/div[2]/div[2]/button[1]",
     "//*[@id=\\\"root\\\"]/div/div/div[2]/button",
     "/html/body/div/div/div/div[2]/button",
+    "//button[contains(@class, 'cursor-pointer') and contains(@style, 'background: linear-gradient') and text()='OPEN']",
     "//*[text()=\"Wow, let's go!\"]",
     "//*[text()=\"Let's GOATS!\"]",
     "//*[text()=\"Let's go\"]",
