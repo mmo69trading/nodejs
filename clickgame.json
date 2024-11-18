@@ -33,6 +33,7 @@
     "//*[text()=\"Gotcha!\"]",
     "//button[contains(@class, 'btn-primary') and contains(text(), 'My profile score')]",
     "/html/body/div/div[2]/div[2]/div[2]/button[1]",
+    "//*[@id=\\\"root\\\"]/div/div/div[2]/button",
     "//*[text()=\"Wow, let's go!\"]",
     "//*[text()=\"Let's GOATS!\"]",
     "//*[text()=\"Let's go\"]",
