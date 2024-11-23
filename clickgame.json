@@ -53,6 +53,8 @@
     "//button[contains(@class, 'h-[60px]') and text()='Awesome!']",
     "//button[contains(@class, 'h-[60px]') and text()='CLAIM']",
     "//*[text()='🎉 Wow, Claim Reward ']",
+    "//div[@class='flex justify-center' and text()='Continue']",
+    "//div[@class='flex justify-center' and text()='Claim']",
     "//div[@role='button' and contains(@class, 'flex flex-col items-center p-6 font-bold text-center rounded bg-slate-100')]"
   ]
 }
