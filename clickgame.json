@@ -46,7 +46,7 @@
     "//span[contains(text(), \"Next\")]",
     "//span[@class='font-bold uppercase' and text()='Yes']",
    	"//*[@id=\"app\"]/div[1]/div/div/div/div[3]/div/div/div[3]/button/span",
-    "//button[@class='DyNAzRYSF_7RnbG9uStY c7nIjiv0hpF5KQGT1CSz']"
+    "//button[@class='DyNAzRYSF_7RnbG9uStY c7nIjiv0hpF5KQGT1CSz']",
     "//div[@class='w-full h-full flex items-center justify-center overflow-hidden']//div[contains(@class, 'relative overflow-hidden')]",
     "//button[@class=\"btn-primary btn-color-primary web-app-button\"]",
     "//button[contains(@class, 'h-[60px]') and text()='START']",
@@ -54,6 +54,7 @@
     "//button[contains(@class, 'h-[60px]') and text()='CLAIM']",
     "//*[text()='🎉 Wow, Claim Reward ']",
     "//div[@class='flex justify-center']",
+    "//*[@id=\\\"root\\\"]/div/div/div[2]/button/div",
     "//div[@role='button' and contains(@class, 'flex flex-col items-center p-6 font-bold text-center rounded bg-slate-100')]"
   ]
 }
