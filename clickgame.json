@@ -15,7 +15,6 @@
     "//*[text()=\"Take Bonus\"]",
     "//*[text()=\"Open\"]",
     "//*[text()=\"Skip tutorial\"]",
-    "//button[contains(@class, 'h-[60px]') and contains(text(), 'START')]",
     "//*[text()=\"Awesome!\"]",
     "//*[text()=\"CLAIM\"]",
     "//*[text()=\"Get started\"]",
