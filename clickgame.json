@@ -62,6 +62,8 @@
     "//div[@role='button' and contains(@class, 'flex flex-col items-center p-6 font-bold text-center rounded bg-slate-100')]",
     "//div[@class='rounded-lg bg-black p-4 text-center text-sm font-medium text-white']",
     "//div[@class='start-btn claim']",
-    "//div[@class='descr' and text()='Earn']"
+    "//div[@class='descr' and text()='Earn']",
+    "//button[contains(@class, 'primary') and contains(@class, 'next_btn')]",
+    "//button[contains(@class, 'primary') and text()='Ok']"
   ]
 }
