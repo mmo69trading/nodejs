@@ -63,6 +63,8 @@
     "//div[@class='rounded-lg bg-black p-4 text-center text-sm font-medium text-white']",
     "//div[@class='start-btn claim']",
     "//div[@class='descr' and text()='Earn']",
+    "//div[@class='_btn_4d745_26' and text()='Go to Claim']",
+    "//div[contains(@class, '_weeklyCta_gexzr_464')]",
     "//button[contains(@class, 'primary') and contains(@class, 'next_btn')]",
     "//button[contains(@class, 'primary') and text()='Ok']"
   ]
