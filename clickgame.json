@@ -13,7 +13,6 @@
     "//*[text()=\"Skip\"]",
     "//*[text()=\"Let's get started!\"]",
     "//*[text()=\"Take Bonus\"]",
-    "//*[text()=\"Open\"]",
     "//*[text()=\"Skip tutorial\"]",
     "//*[text()=\"Awesome!\"]",
     "//*[text()=\"CLAIM\"]",
