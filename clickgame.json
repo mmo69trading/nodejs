@@ -65,6 +65,9 @@
     "//div[@class='_btn_4d745_26' and text()='Go to Claim']",
     "//div[contains(@class, '_weeklyCta_gexzr_464')]",
     "//button[contains(@class, 'primary') and contains(@class, 'next_btn')]",
-    "//button[contains(@class, 'primary') and text()='Ok']"
+    "//button[contains(@class, 'primary') and text()='Ok']",
+    "//*[@id='root']/div[2]/div/div[2]/div[2]",
+    "//*[@id='root']/div[2]/div/div[2]/div/img",
+    "//*[@id='root']/div[2]/div/div[2]/button/div"
   ]
 }
