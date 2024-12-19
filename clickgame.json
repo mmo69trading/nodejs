@@ -69,7 +69,8 @@
     "//*[@id='root']/div[2]/div/div[2]/div[2]",
     "//*[@id='root']/div[2]/div/div[2]/div/img",
     "//*[@id='root']/div[2]/div/div[2]/button/div",
-    "//span[@class='Typography_typography__VTHOJ Typography_title__JfR0f' and text()='Pre-Register Now']"
+    "//span[@class='Typography_typography__VTHOJ Typography_title__JfR0f' and text()='Pre-Register Now']",
+    "//button[@type='button' and text()='Get Bonus']"
 
   ]
 }
