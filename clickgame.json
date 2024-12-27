@@ -73,6 +73,9 @@
     "//*[@id='root']/div/div/div[3]/div[3]/button[1]",
     "//*[@id='root']/div/div/div[3]/div[3]/button[2]",
     "//button[@class='styles__ButtonStyle-sc-wvyb2k-0 gxCyHj' and text()='Claim now']",
-    "//span[text()='Claim gifts']"
+    "//span[text()='Claim gifts']",
+    "(//div[@class='cursor-pointer flex justify-between items-center'])[1]",
+    "//button[text()='Start Your Journey']",
+    "//button[@data-v-1601d2ab and @type='button']"
   ]
 }
