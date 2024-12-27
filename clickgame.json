@@ -76,6 +76,7 @@
     "//span[text()='Claim gifts']",
     "(//div[@class='cursor-pointer flex justify-between items-center'])[1]",
     "//button[text()='Start Your Journey']",
-    "//button[@data-v-1601d2ab and @type='button']"
+    "//button[@data-v-1601d2ab and @type='button']",
+    "//button[@class='continue-button svelte-zj1aqi' and text()='Finish']"
   ]
 }
