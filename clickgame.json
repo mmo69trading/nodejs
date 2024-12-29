@@ -77,6 +77,8 @@
     "(//div[@class='cursor-pointer flex justify-between items-center'])[1]",
     "//button[text()='Start Your Journey']",
     "//button[@data-v-1601d2ab and @type='button']",
-    "//button[@class='continue-button svelte-zj1aqi' and text()='Finish']"
+    "//button[@class='continue-button svelte-zj1aqi' and text()='Finish']",
+    "//i[@class='van-badge__wrapper van-icon van-icon-success']",
+    "//span[contains(@class, 'van-button__text') and text()='Start']"
   ]
 }
