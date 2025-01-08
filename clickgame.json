@@ -81,6 +81,6 @@
     "//*[@id='app']/div/div/div/div[1]/div[5]/div[2]/button/div/span",
     "//button[@class='primary next_btn   css-10zxrpt'",
     "//button[contains(@class, 'primary') and text()='Play']",
-    "//div[@class='_container__children_ko0sx_134' and text()='Ok, got it!']"
+    "//div[text()='Ok, got it!']"
   ]
 }
