@@ -33,7 +33,6 @@
     "//button[contains(@class, 'btn-primary') and contains(text(), 'My profile score')]",
     "/html/body/div/div[2]/div[2]/div[2]/button[1]",
     "/html/body/div/div[2]/div/div[2]/div[2]/button[1]",
-    "//*[text()=\"Wow, let's go!\"]",
     "//*[text()=\"Let's GOATS!\"]",
     "//*[text()=\"Let's go\"]",
     "//button[span[text()='Enter']]",
