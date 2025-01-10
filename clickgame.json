@@ -82,6 +82,7 @@
     "//button[@class='primary next_btn   css-10zxrpt'",
     "//button[contains(@class, 'primary') and text()='Play']",
     "//div[@class='w-full h-[54px] rounded-[12px] bg-Orange flex justify-center items-center text-white text-h6 font-Semibold' and span]",
+    "//span[text()='Create UXUY Wallet']",
     "//h6[span[@class='text-body1 font-Semibold']]",
     "//div[text()='Ok, got it!']"
   ]
