@@ -82,6 +82,7 @@
     "//button[@class='primary next_btn   css-10zxrpt'",
     "//button[contains(@class, 'primary') and text()='Play']",
     "//button[contains(@class,'w-full')]/h6//span",
+    "//button[contains(@class, 'h-13.5') and contains(@class, 'bg-Orange') and contains(@class, 'text-white')]",
     "//div[text()='Ok, got it!']"
   ]
 }
