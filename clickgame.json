@@ -87,6 +87,7 @@
     "//div[@class='flex items-center font-changa-one text-black' and contains(text(), 'Join our Telegram Channel')]",
     "//div[@class='flex cursor-pointer w-[291px] h-[46px] justify-center items-center gap-2.5 shrink-0 [background:#FD6019] shadow-[0px_-2.8px_0px_1px_rgba(0,0,0,0.13)_inset,0px_0.8px_1px_0px_rgba(0,0,0,0.34)] px-[135px] py-3.5 rounded-[47px] mx-auto text-white mt-[30px] font-bold font-changa-one' and text()='Go']",
     "//div[@class='flex w-[291px] cursor-pointer h-[46px] justify-center items-center gap-2.5 shrink-0 [background:#fff] px-[135px] py-3.5 rounded-[47px] mx-auto mt-[15px] font-bold font-changa-one text-[#FD6019] border border-[#FD6019] loader-primary' and text()='Check']",
+    "//*[@id='root']/div/div/div/div[3]",
     "//div[text()='Ok, got it!']"
   ]
 }
