@@ -1,8 +1,41 @@
 {
   "xpaths": [
+"//div[@class='btn-text' and text()='Next']",
+"//div[@class='btn-text' and text()='Let’s Farm!']"
+"//div[@class='whitespace-nowrap' and text()='Skip']",
+"//button[contains(@class, 'text-white') and text()='START']",
+"//button[contains(@class, 'text-white') and text()='Awesome!']",
+"//div[@class='_container__children_ko0sx_134' and text()='Join now!']",
+"//*[text()='Join now!']",
+"//div[@class='button' and contains(text(), 'Yes Get my Tickets')]",
+"//div[@class='button' and text()='Continue']",
+"//div[text()='Continue']",
+"//div[text()='Check my status and win']",
+"//div[text()='Create account']",
+"//h6[text()='Get started']",
+"//h6[@class='tgui-c3e2e598bd70eee6 tgui-080a44e6ac3f4d27 tgui-809f1f8a3f64154d tgui-266b6ffdbad2b90e tgui-8f63cd31b2513281 tgui-5f6014c0f063b6de' and text()='Continue']",
+"//button[text()='Skip']",
+"//div[@class='flex cursor-pointer w-[291px] h-[46px] mt-[20px] justify-center items-center gap-2.5 shrink-0 [background:#FD6019] shadow-[0px_-2.8px_0px_1px_rgba(0,0,0,0.13)_inset,0px_0.8px_1px_0px_rgba(0,0,0,0.34)]  rounded-[47px] mx-auto text-white text-nowrap font-bold font-changa-one' and text()='Go']",
+"//div[@class='flex items-center font-changa-one text-black' and contains(text(), 'Join our Telegram Channel')]",
+"//div[@class='flex cursor-pointer w-[291px] h-[46px] justify-center items-center gap-2.5 shrink-0 [background:#FD6019] shadow-[0px_-2.8px_0px_1px_rgba(0,0,0,0.13)_inset,0px_0.8px_1px_0px_rgba(0,0,0,0.34)] px-[135px] py-3.5 rounded-[47px] mx-auto text-white mt-[30px] font-bold font-changa-one' and text()='Go']",
+"//div[@class='flex w-[291px] cursor-pointer h-[46px] justify-center items-center gap-2.5 shrink-0 [background:#fff] px-[135px] py-3.5 rounded-[47px] mx-auto mt-[15px] font-bold font-changa-one text-[#FD6019] border border-[#FD6019] loader-primary' and text()='Check']",
+"//div[@class='btn-next' and text()='Let’s start']",
+"//div[contains(@class, 'control-btn') and contains(@class, 'next')]",
+"//div[@class='btn-next' and text()='Gotcha!']",
+"//button[@class='DyNAzRYSF_7RnbG9uStY lic2uIN0O6AQ_qNMJzRV' and text()='Next']",
+"//button[@class='DyNAzRYSF_7RnbG9uStY c7nIjiv0hpF5KQGT1CSz']",
 "//button[@class='button button-primary button-default']",
 "//div[@class='slider-mem-next']",
 "//button[@class='button button-primary' and text()='Play interlude season']",
-"//div[@class='user-tap-button-circle is-column content-onboarding-button']"
+"//div[@class='user-tap-button-circle is-column content-onboarding-button']",
+"//*[@id="root"]/div[2]/div/div/button[2]",
+"//button[@class='continue-button svelte-zj1aqi']",
+"//button[text()='Continue']",
+"//*[@id="app"]/div/div/div/div[1]/div[1]/div[2]/button/div/span",
+"//i[@class='van-badge__wrapper van-icon van-icon-success']",
+"//button[contains(@class, 'h-13.5') and contains(@class, 'bg-Orange') and contains(@class, 'text-white')]",
+"//div[contains(@class, 'w-full') and contains(@class, 'h-[54px]') and contains(@class, 'bg-Orange') and contains(@class, 'text-white')]",
+"//div[contains(@class, 'flex') and contains(@class, 'items-center') and contains(@class, 'bg-Orange') and contains(@class, 'rounded-[100px]')]",
+"//div[contains(@class, 'flex') and contains(@class, 'items-center') and contains(@class, 'bg-Orange') and contains(@class, 'rounded-[1000px]')]"
   ]
 }
