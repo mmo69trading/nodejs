@@ -21,6 +21,21 @@
 "//div[@class='flex w-[291px] cursor-pointer h-[46px] justify-center items-center gap-2.5 shrink-0 [background:#fff] px-[135px] py-3.5 rounded-[47px] mx-auto mt-[15px] font-bold font-changa-one text-[#FD6019] border border-[#FD6019] loader-primary' and text()='Check']"
 "//div[@class='btn-next' and text()='Let’s start']",
 "//div[contains(@class, 'control-btn') and contains(@class, 'next')]",
-"//div[@class='btn-next' and text()='Gotcha!']"    
+"//div[@class='btn-next' and text()='Gotcha!']",
+"//button[@class='DyNAzRYSF_7RnbG9uStY lic2uIN0O6AQ_qNMJzRV' and text()='Next']",
+"//button[@class='DyNAzRYSF_7RnbG9uStY c7nIjiv0hpF5KQGT1CSz']",
+"//*[text()='Let's get started!']",
+"//*[text()='Take Bonus']",
+"//*[text()='Skip tutorial']",
+"//*[text()='Awesome!']",
+"//*[text()='CLAIM']",
+"//*[text()='Get started']",
+"//*[text()='Whats new?']",
+"//*[text()='How many tokens?']",
+"//*[text()='Thanks!']",
+"//*[text()='What else?']",
+"//*[text()='Go!']",
+"//*[text()='Play interlude season']",
+"//div[@class='user-tap-button-circle is-column content-onboarding-button']"
   ]
 }
