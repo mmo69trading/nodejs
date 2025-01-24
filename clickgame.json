@@ -50,6 +50,7 @@
     "//button[contains(@class, 'h-[60px]') and text()='START']",
     "//button[contains(@class, 'h-[60px]') and text()='Awesome!']",
     "//button[contains(@class, 'h-[60px]') and text()='CLAIM']",
+    "//h6[text()='Get started']",
     "//*[text()='🎉 Wow, Claim Reward ']",
     "//div[@class='flex justify-center']",
     "//*[@id=\"root\"]/div/div/div[2]/button/div",
