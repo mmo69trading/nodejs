@@ -1,10 +1,6 @@
 {
   "xpaths": [
-"//span[text()='Whats new?']",
-"//span[text()='How many tokens?']",
-"//span[text()='Thanks!']",
-"//span[text()='What else?']",
-"//span[text()='Go!']",
+"//button[@class='button button-primary button-default']",
 "//div[@class='slider-mem-next']",
 "//button[@class='button button-primary' and text()='Play interlude season']",
 "//div[@class='user-tap-button-circle is-column content-onboarding-button']"
