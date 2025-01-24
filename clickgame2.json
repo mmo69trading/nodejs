@@ -4,6 +4,7 @@
 "//div[@class='btn-text' and text()='Let’s Farm!']"
 "//div[@class='whitespace-nowrap' and text()='Skip']",
 "//button[contains(@class, 'text-white') and text()='START']",
-"//button[contains(@class, 'text-white') and text()='Awesome!']"
+"//button[contains(@class, 'text-white') and text()='Awesome!']",
+"//*[text()='Join now!']"
   ]
 }
