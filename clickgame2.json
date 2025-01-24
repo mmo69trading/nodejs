@@ -7,6 +7,10 @@
 "//button[contains(@class, 'text-white') and text()='Awesome!']",
 "//div[@class='_container__children_ko0sx_134' and text()='Join now!']",
 "//*[text()='Join now!']",
-"//div[text()='Verify and Claim']"
+"//div[text()='Verify and Claim']",
+"//div[@class='button' and contains(text(), 'Yes Get my Tickets')]",
+"//div[@class='button' and text()='Continue']",
+"//div[text()='Continue']",
+"//div[text()='Check my status and win']"
   ]
 }
