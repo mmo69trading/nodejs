@@ -7,10 +7,13 @@
 "//button[contains(@class, 'text-white') and text()='Awesome!']",
 "//div[@class='_container__children_ko0sx_134' and text()='Join now!']",
 "//*[text()='Join now!']",
-"//div[text()='Verify and Claim']",
 "//div[@class='button' and contains(text(), 'Yes Get my Tickets')]",
 "//div[@class='button' and text()='Continue']",
 "//div[text()='Continue']",
-"//div[text()='Check my status and win']"
+"//div[text()='Check my status and win']",
+"//div[text()='Create account']",
+"//h6[text()='Get started']",
+"//h6[@class='tgui-c3e2e598bd70eee6 tgui-080a44e6ac3f4d27 tgui-809f1f8a3f64154d tgui-266b6ffdbad2b90e tgui-8f63cd31b2513281 tgui-5f6014c0f063b6de' and text()='Continue']",
+"//button[text()='Skip']"
   ]
 }
