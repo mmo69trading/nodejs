@@ -39,6 +39,7 @@
 "//div[contains(@class, 'w-full') and contains(@class, 'h-[54px]') and contains(@class, 'bg-Orange') and contains(@class, 'text-white')]",
 "//div[contains(@class, 'flex') and contains(@class, 'items-center') and contains(@class, 'bg-Orange') and contains(@class, 'rounded-[100px]')]",
 "//div[contains(@class, 'flex') and contains(@class, 'items-center') and contains(@class, 'bg-Orange') and contains(@class, 'rounded-[1000px]')]",
-"//div[text()='GET SIGN-UP BONUS']"
+"//div[text()='GET SIGN-UP BONUS']",
+"//div[text()='Start earning TOMATO']"
   ]
 }
