@@ -5,7 +5,7 @@
 "//div[@class='whitespace-nowrap' and text()='Skip']",
 "//button[contains(@class, 'text-white') and text()='START']",
 "//button[contains(@class, 'text-white') and text()='Awesome!']",
-"//div[@class='_container__children_ko0sx_134' and text()='Join now!']"
-    
+"//div[@class='_container__children_ko0sx_134' and text()='Join now!']",
+"//*[text()='Join now!']"    
   ]
 }
