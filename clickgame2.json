@@ -5,6 +5,5 @@
 "//div[@class='whitespace-nowrap' and text()='Skip']",
 "//button[contains(@class, 'text-white') and text()='START']",
 "//button[contains(@class, 'text-white') and text()='Awesome!']"
-
   ]
 }
