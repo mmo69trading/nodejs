@@ -25,6 +25,7 @@
     "//*[text()='Play interlude season']",
     "//*[text()='Receive a gift']",
     "//*[text()='Let’s Farm!']",
+    "//div[@class='btn-text' and text()='Let’s Farm!']",
     "//*[text()='Claim']",
     "//*[text()='Yes!']",
     "//*[text()='Receive']",
