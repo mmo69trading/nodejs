@@ -7,6 +7,6 @@
 "//span[text()='Like']",
 "//span[normalize-space(text())='Subscribe']",
 "//span[normalize-space(text())='Follow']",
-"//button[normalize-space(text())='Got it']
+"//button[normalize-space(text())='Got it']"
   ]
 }
