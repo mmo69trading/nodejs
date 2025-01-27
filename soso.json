@@ -1,0 +1,12 @@
+{
+  "xpaths": [
+"//button[.//span[text()='Watch']]",
+"//span[text()='Share']",
+"//span[text()='Quote']",
+"//span[text()='Reply']",
+"//span[text()='Like']",
+"//span[normalize-space(text())='Subscribe']",
+"//span[normalize-space(text())='Follow']",
+"//button[normalize-space(text())='Got it']
+  ]
+}
