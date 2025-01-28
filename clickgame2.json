@@ -1,4 +1,3 @@
-
 {
   "xpaths": [
 "//div[@class='btn-text' and text()='Next']",
@@ -6,6 +5,7 @@
 "//div[@class='whitespace-nowrap' and text()='Skip']",
 "//button[contains(@class, 'text-white') and text()='START']",
 "//button[contains(@class, 'text-white') and text()='Awesome!']",
+"//button[contains(@class, 'text-white') and text()='CLAIM']",    
 "//div[@class='_container__children_ko0sx_134' and text()='Join now!']",
 "//*[text()='Join now!']",
 "//div[@class='button' and contains(text(), 'Yes Get my Tickets')]",
@@ -38,6 +38,8 @@
 "//button[contains(@class, 'h-13.5') and contains(@class, 'bg-Orange') and contains(@class, 'text-white')]",
 "//div[contains(@class, 'w-full') and contains(@class, 'h-[54px]') and contains(@class, 'bg-Orange') and contains(@class, 'text-white')]",
 "//div[contains(@class, 'flex') and contains(@class, 'items-center') and contains(@class, 'bg-Orange') and contains(@class, 'rounded-[100px]')]",
-"//div[contains(@class, 'flex') and contains(@class, 'items-center') and contains(@class, 'bg-Orange') and contains(@class, 'rounded-[1000px]')]"
+"//div[contains(@class, 'flex') and contains(@class, 'items-center') and contains(@class, 'bg-Orange') and contains(@class, 'rounded-[1000px]')]",
+"//div[text()='GET SIGN-UP BONUS']",
+"//div[text()='Start earning TOMATO']"
   ]
 }
