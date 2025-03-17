@@ -44,6 +44,8 @@
 "//div[text()='Start earning TOMATO']",
 "(//button[contains(@class, 'flex') and contains(@class, 'bg-primary')])[1]",
 "//button[text()='CLAIM']",
-"//button[contains(@class, 'w-full') and contains(text(), 'Start Playing')]"
+"//button[contains(@class, 'w-full') and contains(text(), 'Start Playing')]",
+"//img[starts-with(@src, 'data:image/png;base64,')]",
+"//div[contains(text(), 'Let‘s Play')]"
   ]
 }
