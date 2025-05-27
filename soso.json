@@ -1,7 +1,7 @@
 {
   "xpaths": [
 "//button[.//span[text()='Watch']]",
-"//span[text()='Share']",
+"(//span[text()='Share'])[2]",
 "//span[text()='Quote']",
 "//span[text()='Reply']",
 "//span[text()='Like']",
