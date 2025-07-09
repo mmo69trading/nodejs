@@ -1,11 +1,7 @@
 {
   "xpaths": [
-"//button[.//span[text()='Watch']]",
-"(//span[text()='Share'])[2]",
-"//span[text()='Quote']",
-"//span[text()='Reply']",
-"//span[text()='Like']",
-"//span[normalize-space(text())='Subscribe']",
-"//span[normalize-space(text())='Follow']"
+    "//span[contains(@class, 'font-medium') and normalize-space(.)='Share']",
+    "//button[.//span[normalize-space(.)='Like']]",
+    "//span[contains(text(), 'Watch')]"
   ]
 }
