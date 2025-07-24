@@ -2,6 +2,9 @@
   "xpaths": [
     "//span[contains(@class, 'font-medium') and normalize-space(.)='Share']",
     "//button[.//span[normalize-space(.)='Like']]",
-    "//span[contains(text(), 'Watch')]"
+    "//span[contains(text(), 'Watch')]",
+    "//button[contains(@class, 'MuiButtonBase-root') and .//span[text()='Quote']]",
+    "//button[contains(@class, 'MuiButtonBase-root') and .//span[text()='Reply']]"
+
   ]
 }
